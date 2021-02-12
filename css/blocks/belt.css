@@ -1,0 +1,11 @@
+.belt-bg-grey {
+	min-height: 537px;
+	background: #F4F5F5;
+}
+.belt__title {
+	font-size: 48px;
+	font-weight:bold;
+	color:#202020;
+	margin-top: 88px;
+	margin-bottom: 88px;
+}

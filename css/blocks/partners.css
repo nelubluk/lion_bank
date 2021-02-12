@@ -1,0 +1,17 @@
+.partners {
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-between;
+}
+.partners__link {
+	width: 250px;
+	height: 100px;
+	display: flex;
+	text-decoration: none;
+	align-items: center;
+	margin-bottom:70px;
+	filter: grayscale(100%);
+}
+.partners__link:hover {
+	filter: grayscale(0);
+}
